@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "manifest_version": 2,
+  "name": "OnePiece theme",
+  "description": "Zoro theme for OnePiece fans",
+  "theme": {
+    "images" : {
+      "theme_ntp_background" : "images/zoro_green_1920*1080.png",
+      "theme_frame": "images/oplogo.png",
+      "theme_tab_background_inactive" : "images/oplogo.png"
+      
+    },
+    "colors" : {
+      "frame" : [71, 105, 91],
+      "toolbar" : [132,184,83],
+      "ntp_text" : [20, 40, 0],
+      "ntp_link" : [36, 70, 0],
+      "ntp_section" : [207, 221, 192],
+      "button_background" : [0,0,0],
+      "bookmark_text": [0, 50, 0],
+      "tab_background_text": [255, 255, 255],
+      "tab_text": [0, 0, 0],
+      "ntp_background": [123,188,62]
+    },
+    "tints" : {
+      "buttons" : [0,0,0],
+      "frame" : [0,0,0],
+      "frame_inactive": [0,0,0]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "top"
+    }
+  }
+}
