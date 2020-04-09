@@ -5,7 +5,7 @@ Dark Chrome theme based on Trafalgar Law from One Piece.
 
 Theme in action
 
-![](sampleImages/theme.png)
+![](sampleImages /theme.png)
 
 
 Image used
