@@ -5,13 +5,13 @@ Dark Chrome theme based on Trafalgar Law from One Piece.
 
 Theme in action
 
-![](sampleImages/theme.png)
+![](sampleImages /theme.png)
 
 
 Image used
 
 
-![](sampleImages/law8.png)
+![](images/law8.png)
 
 ## [DOWNLOAD FROM CHROME WEB STORE](https://chrome.google.com/webstore/detail/trafalgar-law-onepiece-da/gmjkioaagnpihikiglgnnfkmgpclgodb)
 

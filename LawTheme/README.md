@@ -27,5 +27,5 @@ Image used
 ### Color scheme:
 
 ![#06896](https://placehold.it/15/06896/000000?text=+) `#06896`
-![#fdfdfe](https://placehold.it/15/cac8c4/000000?text=+) `#fdfdfe`
+![#fdfdfe](https://placehold.it/15/fdfdfe000000?text=+) `#fdfdfe`
 ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000`
