@@ -11,7 +11,7 @@ Theme in action
 Image used
 
 
-![](sampleImages/law6.png)
+![](images/law6.png)
 
 ## [DOWNLOAD FROM CHROME WEB STORE](https://chrome.google.com/webstore/detail/trafalgar-law-onepiece-th/ncadmoccbmecijabbjkigedciefojdeh)
 
